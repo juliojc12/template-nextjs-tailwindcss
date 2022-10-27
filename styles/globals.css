@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "godofwar";
+  src: url("../public/fonts/GODOFWAR.TTF");
+}
